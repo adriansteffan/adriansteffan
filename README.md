@@ -11,23 +11,23 @@ My goal is to find interesting uses of tech in the field of psychology and build
 
 Currently, I'm analysing eyetracking data in infant research at the [chair for developmental psychology](https://www.psy.lmu.de/epp/index.html) at LMU. I'm also working on various side projects, some of which can be found right here on my github 🙂
 
-If you have an interesting project in mind or just want to have a chat, hit me up at my socials or send me a mail! 
+If you have an interesting project in mind or just want to have a chat, hit me up on my socials or send me a mail! 
 
 
 
 ### Tech Stack
-<img height="25" src="resources/svg/python-original.svg"></img>
-<img height="25" src="resources/svg/c-original.svg"></img>
-<img height="25" src="resources/svg/r-original.svg"></img>
-<img height="25" src="resources/svg/javascript-original.svg"></img>
-<img height="25" src="resources/svg/html5-original.svg"></img>
-<img height="25" src="resources/svg/css3-original.svg"></img>
-<img height="25" src="resources/svg/react-original.svg"></img>
-<img height="25" src="resources/svg/redux-original.svg"></img>
-<img height="30" src="resources/svg/django-original.svg"></img>
-<img height="25" src="resources/svg/docker-original.svg"></img>
-<img height="25" src="resources/svg/digitalocean-original.svg"></img>
-<img height="25" src="resources/svg/git-original.svg"></img>
+<a href=https://www.python.org/><img height="25" src="resources/svg/python-original.svg"></img></a>
+<a href=https://en.wikipedia.org/wiki/C_(programming_language)><img height="25" src="resources/svg/c-original.svg"></img></a>
+<a href=https://www.r-project.org/><img height="25" src="resources/svg/r-original.svg"></img></a>
+<a href=https://www.javascript.com/><img height="25" src="resources/svg/javascript-original.svg"></img></a>
+<a href=https://www.w3.org/standards/webdesign/htmlcss><img height="25" src="resources/svg/html5-original.svg"></img></a>
+<a href=https://www.w3.org/standards/webdesign/htmlcss><img height="25" src="resources/svg/css3-original.svg"></img></a>
+<a href=https://reactjs.org/><img height="25" src="resources/svg/react-original.svg"></img></a>
+<a href=https://redux.js.org/><img height="25" src="resources/svg/redux-original.svg"></img></a>
+<a href=https://www.djangoproject.com/><img height="30" src="resources/svg/django-original.svg"></img></a>
+<a href=https://www.docker.com/><img height="25" src="resources/svg/docker-original.svg"></img></a>
+<a href=https://www.digitalocean.com><img height="25" src="resources/svg/digitalocean-original.svg"></img></a>
+<a href=https://git-scm.com><img height="25" src="resources/svg/git-original.svg"></img></a>
 
 
 
@@ -35,8 +35,9 @@ If you have an interesting project in mind or just want to have a chat, hit me u
 
 * BSc. Psychology (ongoing)
 
-    <img height=30 src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/LMU_Muenchen_Logo.svg/1280px-LMU_Muenchen_Logo.svg.png"/>
+    <a href="https://www.lmu.de/en/"><img height=30 src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/LMU_Muenchen_Logo.svg/1280px-LMU_Muenchen_Logo.svg.png"/></a>
 
 * BSc. Computer Science 
 
-    <img height=45 src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Logo_of_the_Technical_University_of_Munich.svg/1200px-Logo_of_the_Technical_University_of_Munich.svg.png"/><img height=45  src="https://www.freelogovectors.net/wp-content/uploads/2021/04/kaist-logo-freelogovectors.net_-768x768.png"/>
+    <a href="https://www.tum.de/en/"><img height=45 src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Logo_of_the_Technical_University_of_Munich.svg/1200px-Logo_of_the_Technical_University_of_Munich.svg.png"/></a>
+     <a href="https://www.kaist.ac.kr/en/"><img height=45  src="https://www.freelogovectors.net/wp-content/uploads/2021/04/kaist-logo-freelogovectors.net_-768x768.png"/></a>
