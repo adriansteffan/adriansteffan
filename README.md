@@ -32,7 +32,7 @@ If you have an interesting project in mind or just want to have a chat, hit me u
 
 ### Education
 
-* Bsc. Psychology <code><img height=30 style=" vertical-align:middle" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/LMU_Muenchen_Logo.svg/1280px-LMU_Muenchen_Logo.svg.png"/></code>  (ongoing)
-* Bsc. Computer Science <code><img height=45 style="vertical-align:middle;"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Logo_of_the_Technical_University_of_Munich.svg/1200px-Logo_of_the_Technical_University_of_Munich.svg.png"/></code>
-<code><img height=45 style="vertical-align:middle;"  src="https://www.freelogovectors.net/wp-content/uploads/2021/04/kaist-logo-freelogovectors.net_-768x768.png"/></code> 
+* Bsc. Psychology (ongoing) <img height=30 style=" vertical-align:middle" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/LMU_Muenchen_Logo.svg/1280px-LMU_Muenchen_Logo.svg.png"/>
+* Bsc. Computer Science <img height=45 style="vertical-align:middle;"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Logo_of_the_Technical_University_of_Munich.svg/1200px-Logo_of_the_Technical_University_of_Munich.svg.png"/>
+<img height=45 style="vertical-align:middle;"  src="https://www.freelogovectors.net/wp-content/uploads/2021/04/kaist-logo-freelogovectors.net_-768x768.png"/>
 
