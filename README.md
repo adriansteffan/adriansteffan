@@ -16,18 +16,18 @@ If you have an interesting project in mind or just want to have a chat, hit me u
 
 
 ### Tech Stack
-<a href=https://www.python.org/><img height="25" src="resources/svg/python-original.svg"></img></a>
+<a href=https://www.python.org target="_blank"><img height="25" src="resources/svg/python-original.svg"></img></a>
 <a href=https://en.wikipedia.org/wiki/C_(programming_language)><img height="25" src="resources/svg/c-original.svg"></img></a>
-<a href=https://www.r-project.org/><img height="25" src="resources/svg/r-original.svg"></img></a>
-<a href=https://www.javascript.com/><img height="25" src="resources/svg/javascript-original.svg"></img></a>
-<a href=https://www.w3.org/standards/webdesign/htmlcss><img height="25" src="resources/svg/html5-original.svg"></img></a>
-<a href=https://www.w3.org/standards/webdesign/htmlcss><img height="25" src="resources/svg/css3-original.svg"></img></a>
-<a href=https://reactjs.org/><img height="25" src="resources/svg/react-original.svg"></img></a>
-<a href=https://redux.js.org/><img height="25" src="resources/svg/redux-original.svg"></img></a>
-<a href=https://www.djangoproject.com/><img height="30" src="resources/svg/django-original.svg"></img></a>
-<a href=https://www.docker.com/><img height="25" src="resources/svg/docker-original.svg"></img></a>
-<a href=https://www.digitalocean.com><img height="25" src="resources/svg/digitalocean-original.svg"></img></a>
-<a href=https://git-scm.com><img height="25" src="resources/svg/git-original.svg"></img></a>
+<a href=https://www.r-project.org target="_blank"><img height="25" src="resources/svg/r-original.svg"></img></a>
+<a href=https://www.javascript.com target="_blank"><img height="25" src="resources/svg/javascript-original.svg"></img></a>
+<a href=https://www.w3.org/standards/webdesign/htmlcss target="_blank"><img height="25" src="resources/svg/html5-original.svg"></img></a>
+<a href=https://www.w3.org/standards/webdesign/htmlcss target="_blank"><img height="25" src="resources/svg/css3-original.svg"></img></a>
+<a href=https://reactjs.org target="_blank"><img height="25" src="resources/svg/react-original.svg"></img></a>
+<a href=https://redux.js.org target="_blank"><img height="25" src="resources/svg/redux-original.svg"></img></a>
+<a href=https://www.djangoproject.com target="_blank"><img height="30" src="resources/svg/django-original.svg"></img></a>
+<a href=https://www.docker.com target="_blank"><img height="25" src="resources/svg/docker-original.svg"></img></a>
+<a href=https://www.digitalocean.com target="_blank"><img height="25" src="resources/svg/digitalocean-original.svg"></img></a>
+<a href=https://git-scm.com target="_blank"><img height="25" src="resources/svg/git-original.svg"></img></a>
 
 
 
@@ -35,9 +35,9 @@ If you have an interesting project in mind or just want to have a chat, hit me u
 
 * BSc. Psychology (ongoing)
 
-    <a href="https://www.lmu.de/en/"><img height=30 src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/LMU_Muenchen_Logo.svg/1280px-LMU_Muenchen_Logo.svg.png"/></a>
+    <a href="https://www.lmu.de/en/" target="_blank"><img height=30 src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/LMU_Muenchen_Logo.svg/1280px-LMU_Muenchen_Logo.svg.png"/></a>
 
 * BSc. Computer Science 
 
-    <a href="https://www.tum.de/en/"><img height=45 src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Logo_of_the_Technical_University_of_Munich.svg/1200px-Logo_of_the_Technical_University_of_Munich.svg.png"/></a>
-     <a href="https://www.kaist.ac.kr/en/"><img height=45  src="https://www.freelogovectors.net/wp-content/uploads/2021/04/kaist-logo-freelogovectors.net_-768x768.png"/></a>
+    <a href="https://www.tum.de/en/" target="_blank"><img height=45 src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Logo_of_the_Technical_University_of_Munich.svg/1200px-Logo_of_the_Technical_University_of_Munich.svg.png"/></a>
+     <a href="https://www.kaist.ac.kr/en/" target="_blank"><img height=45  src="https://www.freelogovectors.net/wp-content/uploads/2021/04/kaist-logo-freelogovectors.net_-768x768.png"/></a>
