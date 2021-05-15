@@ -1,7 +1,8 @@
 ## Hi there, I'm Adrian  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a href="https://www.linkedin.com/in/adriansteffan/" target="_blank"><img height=35 src="resources/svg/linkedin-original.svg"></a>
+<a href="https://www.linkedin.com/in/adriansteffan/" target="_blank"><img height=35 src="resources/svg/linkedin-original.svg"></a><!--<a href="https://www.twitter.com/adriansteffan/" target="_blank"><img height=35 src="resources/svg/twitter-original.svg"></a>-->
 <a href="https://instagram.com/adriansteffan" target="_blank"><img height=35 src="resources/svg/instagram.svg"></a>
+
 
 
 
@@ -32,7 +33,9 @@ If you have an interesting project in mind or just want to have a chat, hit me u
 
 ### Education
 
-* Bsc. Psychology (ongoing) <img height=30 style=" vertical-align:middle" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/LMU_Muenchen_Logo.svg/1280px-LMU_Muenchen_Logo.svg.png"/>
-* Bsc. Computer Science <img height=45 style="vertical-align:middle;"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Logo_of_the_Technical_University_of_Munich.svg/1200px-Logo_of_the_Technical_University_of_Munich.svg.png"/>
-<img height=45 style="vertical-align:middle;"  src="https://www.freelogovectors.net/wp-content/uploads/2021/04/kaist-logo-freelogovectors.net_-768x768.png"/>
+* Bsc. Psychology (ongoing) <img height=30 src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/LMU_Muenchen_Logo.svg/1280px-LMU_Muenchen_Logo.svg.png"/>
 
+<table><tr><td>Bsc. Psychology (ongoing)</td><td vlign="center"><img height=30 src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/LMU_Muenchen_Logo.svg/1280px-LMU_Muenchen_Logo.svg.png"/> </td> </tr></table>
+
+
+<table><tr><td>Bsc. Computer Science</td><td vlign="center"><img height=45 src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Logo_of_the_Technical_University_of_Munich.svg/1200px-Logo_of_the_Technical_University_of_Munich.svg.png"/><img height=45  src="https://www.freelogovectors.net/wp-content/uploads/2021/04/kaist-logo-freelogovectors.net_-768x768.png"/> </td> </tr></table>
