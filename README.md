@@ -1,7 +1,11 @@
 ## Hi there, I'm Adrian  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+<a href="https://adriansteffan.com" target="_blank"><img height=35 src="resources/global.png"></a>
 <a href="https://www.linkedin.com/in/adriansteffan/" target="_blank"><img height=35 src="resources/svg/linkedin-original.svg"></a><!--<a href="https://www.twitter.com/adriansteffan/" target="_blank"><img height=35 src="resources/svg/twitter-original.svg"></a>-->
 <a href="https://instagram.com/adriansteffan" target="_blank"><img height=35 src="resources/svg/instagram.svg"></a>
+
+
+
 
 
 
@@ -11,7 +15,9 @@ My goal is to find interesting uses of tech in the field of psychology and build
 
 Currently, I'm analysing eyetracking data in infant research at the [chair for developmental psychology](https://www.psy.lmu.de/epp/index.html) at LMU. I'm also working on various side projects, some of which can be found right here on my github 🙂
 
-If you have an interesting project in mind or just want to have a chat, hit me up on my socials or send me a mail! 
+You can also check out my <a href="https://adriansteffan.com" target="_blank">website</a>, where I talk about some projects and host study resources for my psycholgy degree.
+
+If you have an interesting project in mind or just want to have a chat, hit me up on my socials or send me an <a href="mailto:adrian.steffan@hotmail.de" target="_blank">e-mail</a>! 
 
 
 
