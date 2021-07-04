@@ -13,8 +13,11 @@
  a 🖥 computer science  grad and 🧠 psychology student based in Munich!
 My goal is to find interesting uses of tech in the field of psychology and build bridges between psychological research and computational sciences.
 
-Currently, I'm analysing eyetracking data in infant research at the [chair for developmental psychology](https://www.psy.lmu.de/epp/index.html) at LMU. I'm also working on various side projects, some of which can be found right here on my github 🙂
+Currently, I working on <a target="_blank" href="https://draw.study">draw.study</a>, an online platform that teaches concepts using digital drawing exercises. Check out the webapp on your tablet or on <a target="_blank" href="https://www.instagram.com/drawstudyapp/">Instagram</a> @drawstudyapp!</p> 🙂
 
+
+ I'm also analysing eyetracking data in infant research at the [chair for developmental psychology](https://www.psy.lmu.de/epp/index.html) at LMU.
+ 
 You can also check out my <a href="https://adriansteffan.com" target="_blank">website</a>, where I talk about some projects and host study resources for my psycholgy degree.
 
 If you have an interesting project in mind or just want to have a chat, hit me up on my socials or send me an <a href="mailto:adrian.steffan@hotmail.de" target="_blank">e-mail</a>! 
