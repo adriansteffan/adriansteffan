@@ -13,7 +13,7 @@
  a 🖥 computer science  grad and 🧠 psychology student based in Munich!
 My goal is to find interesting uses of tech in the field of psychology and build bridges between psychological research and computational sciences.
 
-Currently, I working on <a target="_blank" href="https://draw.study">draw.study</a>, an online platform that teaches concepts using digital drawing exercises. Check out the webapp on your tablet or on <a target="_blank" href="https://www.instagram.com/drawstudyapp/">Instagram</a> @drawstudyapp!🙂
+Currently, I am working on <a target="_blank" href="https://draw.study">draw.study</a>, an online platform that teaches concepts using digital drawing exercises. Check out the webapp on your tablet or on <a target="_blank" href="https://www.instagram.com/drawstudyapp/">Instagram</a> @drawstudyapp!🙂
 
 
  I'm also analysing eyetracking data in infant research at the [chair for developmental psychology](https://www.psy.lmu.de/epp/index.html) at LMU.
