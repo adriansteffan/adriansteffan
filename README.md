@@ -18,7 +18,7 @@ Currently, I am working on <a target="_blank" href="https://draw.study">draw.stu
 
  I'm also analysing eyetracking data in infant research at the [chair for developmental psychology](https://www.psy.lmu.de/epp/index.html) at LMU.
  
-You can also check out my <a href="https://adriansteffan.com" target="_blank">website</a>, where I talk about some projects and host study resources for my psycholgy degree.
+You can check out my <a href="https://adriansteffan.com" target="_blank">website</a>, where I talk about some projects and host study resources for my psycholgy degree.
 
 If you have an interesting project in mind or just want to have a chat, hit me up on my socials or send me an <a href="mailto:adrian.steffan@hotmail.de" target="_blank">e-mail</a>! 
 
