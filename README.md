@@ -1,7 +1,7 @@
 ## Hi there, I'm Adrian  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://adriansteffan.com" target="_blank"><img height=35 src="resources/global.png"></a>
-<a href="https://www.linkedin.com/in/adriansteffan/" target="_blank"><img height=35 src="resources/svg/linkedin-original.svg"></a><!--<a href="https://www.twitter.com/adriansteffan/" target="_blank"><img height=35 src="resources/svg/twitter-original.svg"></a>-->
+<a href="https://www.twitter.com/adriansteffan/" target="_blank"><img height=35 src="resources/svg/twitter-original.svg"></a>
 <a href="https://instagram.com/adriansteffan" target="_blank"><img height=35 src="resources/svg/instagram.svg"></a>
 
 
@@ -18,7 +18,7 @@ Currently, I am working on <a target="_blank" href="https://draw.study">draw.stu
 
  I'm also analysing eyetracking data in infant research at the [chair for developmental psychology](https://www.psy.lmu.de/epp/index.html) at LMU.
  
-You can check out my <a href="https://adriansteffan.com" target="_blank">website</a>, where I talk about some projects and host study resources for my psycholgy degree.
+You can check out my <a href="https://adriansteffan.com" target="_blank">website</a>, where I write and host study resources for my psycholgy degree.
 
 If you have an interesting project in mind or just want to have a chat, hit me up on my socials or send me an <a href="mailto:adrian.steffan@hotmail.de" target="_blank">e-mail</a>! 
 
