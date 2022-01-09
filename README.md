@@ -10,7 +10,7 @@
 
 
 
- a 🖥 computer science  grad and 🧠 psychology student based in Munich!
+ a 🖥 software developer and 🧠 psychology student based in Munich!
 My goal is to find interesting uses of tech in the field of psychology and build bridges between psychological research and computational sciences.
 
 Currently, I am working on <a target="_blank" href="https://draw.study">draw.study</a>, an online platform that teaches concepts using digital drawing exercises. Check out the webapp on your tablet or on <a target="_blank" href="https://www.instagram.com/drawstudyapp/">Instagram</a> @drawstudyapp!🙂
