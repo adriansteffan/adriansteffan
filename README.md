@@ -14,12 +14,14 @@
  a 🖥 software developer and 🧠 psychology student based in Munich!
 My goal is to find interesting uses of tech in the field of psychology and build bridges between psychological research and computational sciences.
 
-Currently, I am working on <a target="_blank" href="https://draw.study">draw.study</a>, an online platform that teaches concepts using digital drawing exercises. Check out the webapp on your tablet or on <a target="_blank" href="https://www.instagram.com/drawstudyapp/">Instagram</a> @drawstudyapp!🙂
+Currently, I am reseraching eye-tracking for infants with [ManyBabies](https://manybabies.github.io/).
+
+I'm also working on <a target="_blank" href="https://draw.study">draw.study</a>, an online platform that teaches concepts using digital drawing exercises. Check out the webapp on your tablet or on <a target="_blank" href="https://www.instagram.com/drawstudyapp/">Instagram</a> @drawstudyapp!🙂
 
 
- I'm also reseraching eye-tracking for infants with [ManyBabies](https://manybabies.github.io/) at LMU.
  
-You can check out my <a href="https://adriansteffan.com" target="_blank">website</a>, where I write and host study resources for my psycholgy degree.
+ 
+You can check out my <a href="https://adriansteffan.com" target="_blank">website</a>, where I write about things and host study resources for my psycholgy degree.
 
 If you have an interesting project in mind or just want to have a chat, hit me up on my socials or send me an <a href="mailto:adrian.steffan@hotmail.de" target="_blank">e-mail</a>! 
 
