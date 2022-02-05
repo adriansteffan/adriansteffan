@@ -3,7 +3,7 @@
 <a href="https://adriansteffan.com" target="_blank"><img height=33 src="resources/logo.png"></a>
 <a href="https://www.twitter.com/adriansteffan/" target="_blank"><img height=30 src="resources/svg/twitter-original.svg"></a>
 <a href="https://instagram.com/adriansteffan" target="_blank"><img height=30 src="resources/svg/instagram.svg"></a>
-<a href="https://instagram.com/adriansteffan" target="_blank"><img height=32 src="resources/notion.png"></a>
+<a href="https://adriansteffan.notion.site" target="_blank"><img height=32 src="resources/notion.png"></a>
 
 
 
@@ -21,7 +21,7 @@ I'm also working on <a target="_blank" href="https://draw.study">draw.study</a>,
 
  
  
-You can check out my <a href="https://adriansteffan.com" target="_blank">website</a>, where I write about things and host study resources for my psycholgy degree.
+You can check out my <a href="https://adriansteffan.com" target="_blank">website</a>, where I write about things and host study resources for my psycholgy degree. There, you can also find my interlinked public notetaking system, <a target="_blank" href="https://notes.adriansteffan.com">Mindforest</a>.
 
 If you have an interesting project in mind or just want to have a chat, hit me up on my socials or send me an <a href="mailto:adrian.steffan@hotmail.de" target="_blank">e-mail</a>! 
 
