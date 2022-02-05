@@ -16,7 +16,7 @@ My goal is to find interesting uses of tech in the field of psychology and build
 
 Currently, I am reseraching eye-tracking for infants with [ManyBabies](https://manybabies.github.io/).
 
-I'm also working on <a target="_blank" href="https://draw.study">draw.study</a>, an online platform that teaches concepts using digital drawing exercises. Check out the webapp on your tablet or on <a target="_blank" href="https://www.instagram.com/drawstudyapp/">Instagram</a> @drawstudyapp!🙂
+I'm also working on <a target="_blank" href="https://draw.study">draw.study</a>, an online platform that teaches concepts using digital drawing exercises. Check out the webapp on your tablet or on Instagram <a target="_blank" href="https://www.instagram.com/drawstudyapp/">@drawstudyapp!</a> 🙂
 
 
  
