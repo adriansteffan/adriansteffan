@@ -1,8 +1,9 @@
 ## Hi there, I'm Adrian  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a href="https://adriansteffan.com" target="_blank"><img height=35 src="resources/global.png"></a>
-<a href="https://www.twitter.com/adriansteffan/" target="_blank"><img height=35 src="resources/svg/twitter-original.svg"></a>
-<a href="https://instagram.com/adriansteffan" target="_blank"><img height=35 src="resources/svg/instagram.svg"></a>
+<a href="https://adriansteffan.com" target="_blank"><img height=33 src="resources/logo.png"></a>
+<a href="https://www.twitter.com/adriansteffan/" target="_blank"><img height=30 src="resources/svg/twitter-original.svg"></a>
+<a href="https://instagram.com/adriansteffan" target="_blank"><img height=30 src="resources/svg/instagram.svg"></a>
+<a href="https://instagram.com/adriansteffan" target="_blank"><img height=32 src="resources/notion.png"></a>
 
 
 
@@ -16,7 +17,7 @@ My goal is to find interesting uses of tech in the field of psychology and build
 Currently, I am working on <a target="_blank" href="https://draw.study">draw.study</a>, an online platform that teaches concepts using digital drawing exercises. Check out the webapp on your tablet or on <a target="_blank" href="https://www.instagram.com/drawstudyapp/">Instagram</a> @drawstudyapp!🙂
 
 
- I'm also analysing eyetracking data in infant research at the [chair for developmental psychology](https://www.psy.lmu.de/epp/index.html) at LMU.
+ I'm also reseraching eye-tracking for infants with [ManyBabies](https://manybabies.github.io/) at LMU.
  
 You can check out my <a href="https://adriansteffan.com" target="_blank">website</a>, where I write and host study resources for my psycholgy degree.
 
@@ -48,5 +49,5 @@ If you have an interesting project in mind or just want to have a chat, hit me u
 
 * BSc. Computer Science 
 
-    <a href="https://www.tum.de/en/" target="_blank"><img height=45 src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Logo_of_the_Technical_University_of_Munich.svg/1200px-Logo_of_the_Technical_University_of_Munich.svg.png"/></a>
+    <a href="https://www.tum.de/en/" target="_blank"><img height=30 src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Logo_of_the_Technical_University_of_Munich.svg/1200px-Logo_of_the_Technical_University_of_Munich.svg.png"/></a>
      <a href="https://www.kaist.ac.kr/en/" target="_blank"><img height=45  src="https://www.freelogovectors.net/wp-content/uploads/2021/04/kaist-logo-freelogovectors.net_-768x768.png"/></a>
