@@ -1,4 +1,4 @@
-## Hi there, I'm Adrian  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hi there, I'm Adrian!
 
 <a href="https://adriansteffan.com" target="_blank"><img height=33 src="resources/logo.png"></a>
 <a href="https://www.twitter.com/adriansteffan/" target="_blank"><img height=30 src="resources/svg/twitter-original.svg"></a>
