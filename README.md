@@ -1,7 +1,6 @@
 ## Hi there, I'm Adrian!
 
 <a href="https://adriansteffan.com" target="_blank"><img height=33 src="resources/logo.png"></a>
-<a href="https://www.twitter.com/adriansteffan/" target="_blank"><img height=30 src="resources/svg/twitter-original.svg"></a>
 <a href="https://instagram.com/adriansteffan" target="_blank"><img height=30 src="resources/svg/instagram.svg"></a>
 <a href="https://adriansteffan.notion.site" target="_blank"><img height=32 src="resources/notion.png"></a>
 
