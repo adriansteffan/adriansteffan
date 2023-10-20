@@ -44,7 +44,7 @@ If you have an interesting project in mind or just want to have a chat, hit me u
 
 ### Education
 
-* BSc. Psychology (ongoing)
+* BSc. Psychology
 
     <a href="https://www.lmu.de/en/" target="_blank"><img height=30 src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/LMU_Muenchen_Logo.svg/1280px-LMU_Muenchen_Logo.svg.png"/></a>
 
