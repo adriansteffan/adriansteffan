@@ -11,22 +11,22 @@
 
 
 
- a 🖥 software developer and 🧠 psychology student based in Munich!
+ a 🖥 software developer and 🧠 psychology graduate based in Munich!
 My goal is to find interesting uses of tech in the field of psychology and build bridges between psychological research and computational sciences.
 
-Currently, I am reseraching eye-tracking for infants with [ManyBabies](https://manybabies.github.io/).
+Currently, I am researching eye-tracking for infants with [ManyBabies](https://manybabies.github.io/).
 
-I'm also working on <a target="_blank" href="https://draw.study">draw.study</a>, an online platform that teaches concepts using digital drawing exercises. Check out the webapp on your tablet or on Instagram <a target="_blank" href="https://www.instagram.com/drawstudyapp/">@drawstudyapp!</a> 🙂
+<!--I'm also working on <a target="_blank" href="https://draw.study">draw.study</a>, an online platform that teaches concepts using digital drawing exercises. Check out the webapp on your tablet or on Instagram <a target="_blank" href="https://www.instagram.com/drawstudyapp/">@drawstudyapp!</a> 🙂-->
 
 
  
  
-You can check out my <a href="https://adriansteffan.com" target="_blank">website</a>, where I write about things and host study resources for my psycholgy degree. There, you can also find my interlinked public notetaking system, <a target="_blank" href="https://notes.adriansteffan.com">Mindforest</a>.
+You can check out my <a href="https://adriansteffan.com" target="_blank">website</a>, where I host study resources for my psychology degree. <!--There, you can also find my interlinked public notetaking system, <a target="_blank" href="https://notes.adriansteffan.com">Mindforest</a>.-->
 
 If you have an interesting project in mind or just want to have a chat, hit me up on my socials or send me an <a href="mailto:adrian.steffan@hotmail.de" target="_blank">e-mail</a>! 
 
 
-
+<!--
 ### Tech Stack
 <a href=https://www.python.org target="_blank"><img height="25" src="resources/svg/python-original.svg"></img></a>
 <a href=https://en.wikipedia.org/wiki/C_(programming_language)><img height="25" src="resources/svg/c-original.svg"></img></a>
@@ -40,7 +40,7 @@ If you have an interesting project in mind or just want to have a chat, hit me u
 <a href=https://www.docker.com target="_blank"><img height="25" src="resources/svg/docker-original.svg"></img></a>
 <a href=https://www.digitalocean.com target="_blank"><img height="25" src="resources/svg/digitalocean-original.svg"></img></a>
 <a href=https://git-scm.com target="_blank"><img height="25" src="resources/svg/git-original.svg"></img></a>
-
+-->
 
 
 ### Education
