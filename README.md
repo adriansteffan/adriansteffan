@@ -6,7 +6,7 @@
 
 I develop software in the 🧠 psychology field!
 
-Currently, I am researching eye-tracking for infants with Stanford's [ManyBabies](https://manybabies.github.io/) and [Peekbank]([https://manybabies.github.io/](https://github.com/peekbank)).
+Currently, I am researching eye-tracking for infants with Stanford's [ManyBabies](https://manybabies.github.io/) and [Peekbank](https://github.com/peekbank).
 
 I'm also working on <a target="_blank" href="https://draw.study">draw.study</a>, an online platform that teaches topics like neuroanatomy using digital drawing exercises. Check out the webapp on your tablet or on Instagram <a target="_blank" href="https://www.instagram.com/drawstudyapp/">@drawstudyapp!</a> 🙂
 
