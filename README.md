@@ -13,4 +13,4 @@ I'm also working on <a target="_blank" href="https://drawstudy.com">draw.study</
  
 You can also check out my <a href="https://adriansteffan.com" target="_blank">website</a>, where I host study resources for my psychology degree.
 
-If you have an interesting project in mind or just want to have a chat, hit me up on my socials or send me an <a href="mailto:adrian.steffan@hotmail.de" target="_blank">e-mail</a>! 
+If you have an interesting project in mind or just want to have a chat, just send me an <a href="mailto:adrian.steffan@hotmail.de" target="_blank">e-mail</a>! 
