@@ -1,6 +1,5 @@
 ## Hi there, I'm Adrian!
 
-<a href="https://instagram.com/adriansteffan" target="_blank"><img height=30 src="resources/svg/instagram.svg"></a>
 <a href="https://adriansteffan.com" target="_blank"><img height=33 src="resources/logo.png"></a>
 
 
